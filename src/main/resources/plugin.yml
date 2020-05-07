@@ -1,0 +1,8 @@
+main: me.jedimastersoda.oden.Oden
+name: ODEN
+version: ${project.version}
+author: JediMasterSoda
+load: STARTUP
+
+commands:
+  oden:
